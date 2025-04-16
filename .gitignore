@@ -3,3 +3,4 @@ vmaccess/ovpns/*.ovpn
 
 hostdir/data/*
 !hostdir/data/100words.txt.gz
+hostdir/.Trash-0/
